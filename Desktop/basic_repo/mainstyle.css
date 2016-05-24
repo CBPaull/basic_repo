@@ -1,0 +1,24 @@
+*{
+ 	margin: 0px;
+ 	padding: 0px;
+ 	vertical-align: top;
+	background-color: black;
+	color: white;
+
+}
+.wrapper {
+	width: 1050px;
+}
+p{
+	padding: 20px 0px 10px 0px;
+}
+img {
+	width: 500px;
+	height: 300px;
+	display: inline-block;
+	border: 5px solid darkgrey;
+	margin: 5px;
+
+}
+
+
